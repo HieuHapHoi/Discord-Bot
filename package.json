@@ -1,0 +1,15 @@
+{
+  "name": "discord-bot",
+  "version": "1.0.0",
+  "description": "A simple discord bot",
+  "main": "index.js",
+  "author": "HieuHapHoi",
+  "license": "ISC",
+  "dependencies": {
+    "@discordjs/rest": "^0.3.0",
+    "ascii-table": "^0.0.9",
+    "discord-api-types": "^0.27.2",
+    "discord.js": "^13.6.0",
+    "glob": "^7.2.0"
+  }
+}
