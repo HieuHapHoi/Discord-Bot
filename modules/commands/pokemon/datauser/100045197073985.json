@@ -1,0 +1,27 @@
+{
+  "name": "Hiếu Gia",
+  "ID": "100045197073985",
+  "pet": [
+    {
+      "name": "Shinx",
+      "type": "Electric",
+      "HP": "18.0",
+      "Attack": "26.0",
+      "Defense": "13.6",
+      "Speed": "18.0",
+      "skill": [
+        "Rivalry",
+        "Intimidate",
+        "Guts"
+      ],
+      "coins": 0,
+      "images": "https://raw.githubusercontent.com/Purukitto/pokemon-data.json/master/images/pokedex/hires/403.png"
+    }
+  ],
+  "foods": [],
+  "solo": {
+    "win": 0,
+    "lose": 0,
+    "draw": 0
+  }
+}
